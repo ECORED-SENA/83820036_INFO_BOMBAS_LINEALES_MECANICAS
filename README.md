@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **83820036_INFO_BOMBAS_LINEALES_MECANICAS**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/83820036_INFO_BOMBAS_LINEALES_MECANICAS/](https://ecored-sena.github.io/83820036_INFO_BOMBAS_LINEALES_MECANICAS/)
 
 #
